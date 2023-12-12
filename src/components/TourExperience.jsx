@@ -9,7 +9,7 @@ function TourExperience() {
         <div className="md:w-2/5 rounded border overflow-hidden my-4 ">
           <img
             className="w-full"
-            src="/images.jpeg"
+            src="./images.jpeg"
             alt="Sunset in the mountains"
           ></img>
           <div className="px-6 py-4">
@@ -35,7 +35,7 @@ function TourExperience() {
         <div className="md:w-2/5 rounded border overflow-hidden my-4">
           <img
             className="w-full"
-            src="/images.jpeg"
+            src="./images.jpeg"
             alt="Sunset in the mountains"
           ></img>
           <div className="px-6 py-4">
@@ -61,7 +61,7 @@ function TourExperience() {
         <div className="md:w-2/5 rounded border overflow-hidden my-4">
           <img
             className="w-full"
-            src="/images.jpeg"
+            src="./images.jpeg"
             alt="Sunset in the mountains"
           ></img>
           <div className="px-6 py-4">
@@ -87,7 +87,7 @@ function TourExperience() {
         <div className="md:w-2/5 rounded border overflow-hidden my-4">
           <img
             className="w-full"
-            src="/images.jpeg"
+            src="./images.jpeg"
             alt="Sunset in the mountains"
           ></img>
           <div className="px-6 py-4">
