@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"/roots_and_reforest"
+  base:"/roots_and_reforest/"
 })
 
 
