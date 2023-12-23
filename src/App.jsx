@@ -4,6 +4,7 @@ import TourExperience from "./components/TourExperience";
 import Intro from "./components/Intro";
 import OurMission from "./components/OurMission";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <OurMission/>
         <Contact/>
       </div>
+      <Footer/>
     </div>
   );
 }
