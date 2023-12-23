@@ -1,6 +1,6 @@
 function Intro() {
   return (
-    <div className="md:w-2/3 mx-auto my-0 mt-16">
+    <div className="md:w-5/6 mx-auto my-0 mt-16">
       <h1 className="text-green-500 text-3xl font-bold text-center pb-4">About Us</h1>
       <p className="text-slate-700 px-2 md:text-center">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel obcaecati
