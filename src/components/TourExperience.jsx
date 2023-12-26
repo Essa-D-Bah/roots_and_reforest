@@ -2,7 +2,7 @@ function TourExperience() {
   return (
     <main className="mt-16">
       <h1 className="text-3xl text-center text-green-500 font-bold">
-        What We Provide
+        Services
       </h1>
 
       <div className="mt-10 md:flex px-4 my-8 md:justify-around flex-wrap w-full">
