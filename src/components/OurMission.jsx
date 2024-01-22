@@ -1,26 +1,29 @@
-
-
 export default function OurMission() {
   return (
     <div className="md:w-5/6 mx-auto my-0 my-16">
-    <h1 className="text-white text-3xl font-bold text-center pb-4">Our Mission</h1>
-    <p className="text-white px-4 md:20 lg:px-48 ">
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel obcaecati
-      illum fugit enim, consectetur tempora. Eaque quae non quo, odio dicta
-      amet excepturi ducimus magni quidem alias dolores, adipisci cupiditate
-      iusto sit inventore! Adipisci expedita dignissimos dolor cupiditate ut
-      sit, rem tenetur voluptates. Cum quod sed provident ducimus unde soluta
-      ipsam dicta natus, exercitationem blanditiis dolore rerum maiores labore
-      sequi nostrum, nemo quisquam beatae nobis porro quis velit temporibus
-      laudantium ut. Accusantium corporis natus dignissimos quaerat deserunt.
-      Cumque facere minus mollitia. Autem repudiandae, perferendis quasi
-      laboriosam beatae sequi atque eveniet officiis id, ut corporis saepe
-      fuga ipsam optio at, ea animi doloribus dolor tenetur tempore dolores!
-      Unde delectus esse, sed vitae asperiores aliquid officiis veritatis
-      accusamus eius tempora ut quaerat eaque praesentium minus fuga?
-      Explicabo a voluptas corrupti natus rem voluptates, itaque nesciunt
-      eligendi dolore? Velit temporibus recusandae harum alias saepe
-    </p>
-  </div>
-  )
+      <h1 className="text-white text-3xl font-bold text-center pb-4">
+        Our Mission
+      </h1>
+      <p className="text-white px-4 text-lg md:px-20 lg:px-48 ">
+        Roots & Reforest is driven by a steadfast mission to redefine the travel
+        industry, seamlessly merging the joy of tourism with a resolute
+        commitment to environmental stewardship. Our primary goal is to provide
+        tourists with unparalleled experiences while actively contributing to
+        the urgent cause of climate change mitigation through tree planting
+        initiatives in the captivating forests of the Gambia. By intertwining
+        adventure with purpose, we aim to cultivate a new paradigm of
+        responsible tourism that not only enriches the lives of our visitors but
+        also leaves a lasting positive impact on the planet. At the core of our
+        mission is the belief that every journey can be a catalyst for positive
+        change. Through immersive experiences in the heart of nature, we aspire
+        to inspire a global community of conscious travelers who appreciate the
+        delicate balance between exploration and preservation. With each tree
+        planted, Roots & Reforest is committed to fostering sustainable
+        development, promoting environmental awareness, and leaving an indelible
+        mark on the landscapes we traverse, ensuring that future generations
+        inherit a world teeming with the rich biodiversity and natural wonders
+        that define our cherished destinations.
+      </p>
+    </div>
+  );
 }
