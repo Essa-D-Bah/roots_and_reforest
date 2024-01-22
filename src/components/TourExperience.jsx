@@ -24,10 +24,11 @@ function TourExperience() {
             </svg>
           </div>
           <h2 className="text-xl font-semibold mt-6 mb-2">Pick Up</h2>
-          <p className=" text-center px-10">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            ipsum molestias praesentium culpa voluptatibus voluptatem quas harum
-            deserunt corporis dignissimos.
+          <p className="px-10">
+            Roots & Reforest prioritizes sustainable travel, picking clients in
+            eco-friendly vehicles. En route to reforestation sites, guides
+            highlight Gambia{"'"}s biodiversity, fostering a deep connection between
+            travelers and the landscapes they contribute to preserving.
           </p>
           <button className="uppercase my-4 border border-black px-6 py-2">
             more
@@ -48,10 +49,11 @@ function TourExperience() {
             </svg>
           </div>
           <h2 className="text-xl font-semibold mt-6 mb-2">Tree Planting</h2>
-          <p className=" text-center px-10">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            ipsum molestias praesentium culpa voluptatibus voluptatem quas harum
-            deserunt corporis dignissimos.
+          <p className="px-10">
+            Roots & Reforest cultivates green havens, strategically planting
+            trees in the beautiful landscapes of the Gambia, fostering
+            environmental resilience and sustainable growth for a greener,
+            healthier, and vibrant planet.
           </p>
           <button className="uppercase my-4 border border-black px-6 py-2">
             more
@@ -73,10 +75,11 @@ function TourExperience() {
           <h2 className="text-xl font-semibold mt-6 mb-2">
             Climate Change Lessons
           </h2>
-          <p className=" text-center px-10">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            ipsum molestias praesentium culpa voluptatibus voluptatem quas harum
-            deserunt corporis dignissimos.
+          <p className="px-10">
+            Enrich your journey: Beyond tree planting, Roots & Reforest provides
+            invaluable climate change lessons, fostering awareness and
+            empowering travelers to contribute meaningfully to environmental
+            sustainability during their immersive experiences.
           </p>
           <button className="uppercase my-4 border border-black px-6 py-2">
             more
@@ -98,10 +101,11 @@ function TourExperience() {
           <h2 className="text-xl font-semibold mt-6 mb-2">
             Tree Planting Lessons
           </h2>
-          <p className=" text-center px-10">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            ipsum molestias praesentium culpa voluptatibus voluptatem quas harum
-            deserunt corporis dignissimos.
+          <p className="px-10">
+            In our tree planting lessons, Roots & Reforest imparts essential
+            knowledge, guiding participants through the intricacies of fostering
+            sustainable ecosystems. Learn, plant, and contribute to the
+            preservation of our environment.
           </p>
           <button className="uppercase my-4 border border-black px-6 py-2">
             more
@@ -120,13 +124,12 @@ function TourExperience() {
               <path d="M18 0c-3.148 0-6 2.553-6 5.702 0 4.682 4.783 5.177 6 12.298 1.217-7.121 6-7.616 6-12.298 0-3.149-2.852-5.702-6-5.702zm0 8c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm-12-3c-2.099 0-4 1.702-4 3.801 0 3.121 3.188 3.451 4 8.199.812-4.748 4-5.078 4-8.199 0-2.099-1.901-3.801-4-3.801zm0 5.333c-.737 0-1.333-.597-1.333-1.333s.596-1.333 1.333-1.333 1.333.596 1.333 1.333-.596 1.333-1.333 1.333zm6 5.775l-3.215-1.078c.365-.634.777-1.128 1.246-1.687l1.969.657 1.92-.64c.388.521.754 1.093 1.081 1.75l-3.001.998zm12 7.892l-6.707-2.427-5.293 2.427-5.581-2.427-6.419 2.427 3.62-8.144c.299.76.554 1.776.596 3.583l-.443.996 2.699-1.021 4.809 2.091.751-3.725.718 3.675 4.454-2.042 3.099 1.121-.461-1.055c.026-.392.068-.78.131-1.144.144-.84.345-1.564.585-2.212l3.442 7.877z" />
             </svg>
           </div>
-          <h2 className="text-xl font-semibold mt-6 mb-2">
-            Site Visiting
-          </h2>
-          <p className=" text-center px-10">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            ipsum molestias praesentium culpa voluptatibus voluptatem quas harum
-            deserunt corporis dignissimos.
+          <h2 className="text-xl font-semibold mt-6 mb-2">Site Visiting</h2>
+          <p className="px-10">
+            Embark on immersive site visits with Roots & Reforest. Our
+            experienced guides lead you through the enchanting Gambia forests,
+            offering firsthand insights into biodiversity and our impactful tree
+            planting initiatives. Explore responsibly.
           </p>
           <button className="uppercase my-4 border border-black px-6 py-2">
             more

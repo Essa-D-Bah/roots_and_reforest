@@ -12,10 +12,10 @@ const Navbar = () => {
   ];
   return (
     <>
-      <header className="px-8 lg:px-20  bg-green-700 text-white py-4 z-10 w-full">
+      <header className="px-8 lg:px-20  bg-green-500 text-white py-4 z-10 w-full">
         <nav className="flex justify-between items-center max-container">
           <a href="/" className="text-3xl font-bold">
-            Logo
+            <img src="./th.jpeg" alt="" className="h-10 w-10 bg:green"/>
           </a>
           <ul className="flex-1 flex justify-end items-center gap-16 max-lg:hidden">
             {navLinks.map((item) => (
