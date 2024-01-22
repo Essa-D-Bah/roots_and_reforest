@@ -1,9 +1,9 @@
 function Intro() {
   return (
     <div className="md:w-5/6 mx-auto my-0 mt-16">
-      <h1 className="text-green-500 text-3xl font-bold underline pl-2 pb-4 md:px-20 lg:px-48">About Us</h1>
+      <h1 className="text-green-500 text-3xl font-bold underline px-8 pb-4 md:px-20 lg:px-48">About Us</h1>
       <div className="w-full">
-          <p className="text-slate-700 px-2 md:px-20 lg:px-48">
+          <p className="text-slate-700 px-8 md:px-20 lg:px-48">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel obcaecati
             illum fugit enim, consectetur tempora. Eaque quae non quo, odio dicta
             amet excepturi ducimus magni quidem alias dolores, adipisci cupiditate
