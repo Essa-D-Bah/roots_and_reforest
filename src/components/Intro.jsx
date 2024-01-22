@@ -1,7 +1,7 @@
 function Intro() {
   return (
-    <div className="md:w-5/6 mx-auto my-0 mt-16">
-      <h1 className="text-green-500 text-3xl font-bold underline px-8 pb-4 md:px-28 lg:px-48">
+    <div className="md:w-5/6 mx-auto my-0 mt-16" id="about-us">
+      <h1 className="text-green-700 text-3xl font-bold underline px-8 pb-4 md:px-28 lg:px-48">
         About Us
       </h1>
       <div className="w-full">

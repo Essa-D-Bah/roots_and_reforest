@@ -1,6 +1,6 @@
 export default function OurMission() {
   return (
-    <div className="md:w-5/6 mx-auto my-0 my-16">
+    <div className="md:w-5/6 mx-auto my-0 my-16" id="mission">
       <h1 className="text-white text-3xl font-bold text-center pb-4">
         Our Mission
       </h1>

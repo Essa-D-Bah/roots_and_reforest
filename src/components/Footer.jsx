@@ -5,11 +5,11 @@ export default function Footer() {
         <g transform="scale(1, -1) translate(0, -200)">
           <path
             d="M 0 30 C 150 100 280 0 500 20 L 500 0 L 0 0"
-            className="fill-current text-green-500"
+            className="fill-current text-green-700"
           ></path>
         </g>
       </svg>
-      <footer className="bg-gray-800 p-6 text-white bg-green-500 mt-[-2px]">
+      <footer className="bg-gray-800 p-6 text-white bg-green-700 mt-[-2px]">
         <div className="md:flex justify-around">
           <div className="text-center md:text-end">
             <h2 className="text-2xl font-800 mb-8">Contact</h2>

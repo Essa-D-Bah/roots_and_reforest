@@ -5,14 +5,15 @@ import { AiOutlineClose } from "react-icons/ai";
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const navLinks = [
-    { href: "#home", label: "Home" },
     { href: "#about-us", label: "About Us" },
     { href: "#products", label: "Products" },
     { href: "#contact-us", label: "Contact Us" },
+    { href: "#mission", label: "Our Mission" },
+    { href: "#team", label: "Team" },
   ];
   return (
     <>
-      <header className="px-8 lg:px-20  bg-green-500 text-white py-4 z-10 w-full">
+      <header className="px-8 lg:px-20  bg-green-700 text-white py-4 z-10 w-full">
         <nav className="flex justify-between items-center max-container">
           <a href="/" className="text-3xl font-bold">
             <img src="./th.jpeg" alt="" className="h-10 w-10 bg:green"/>
