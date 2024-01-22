@@ -12,15 +12,15 @@ function App() {
     <div>
       <Navbar />
       <Hero />
-      <div className="px-4 md:px-8 lg:px-20 ">
-        <Intro />
+      <Intro />
+      <div className="px-4 md:px-8 lg:px-20 ">  
         <TourExperience />
       </div>
-      <div className="bg-[#626237] pt-4 pb-16 px-4 md:px-8 lg:px-20">
-        <OurMission />
-        <Contact />
+      <div className="bg-green-500 pt-4 pb-16 px-4 md:px-8 lg:px-20">
+        <OurMission />   
       </div>
       <div className="px-4 md:px-8 lg:px-20">
+      <Contact />
       <Teams />
       </div>
 

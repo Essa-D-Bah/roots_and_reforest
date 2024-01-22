@@ -2,9 +2,9 @@
 
 export default function OurMission() {
   return (
-    <div className="md:w-5/6 mx-auto my-0 mt-16">
+    <div className="md:w-5/6 mx-auto my-0 my-16">
     <h1 className="text-white text-3xl font-bold text-center pb-4">Our Mission</h1>
-    <p className="text-white px-2 md:text-center">
+    <p className="text-white px-4 md:20 lg:px-48 ">
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel obcaecati
       illum fugit enim, consectetur tempora. Eaque quae non quo, odio dicta
       amet excepturi ducimus magni quidem alias dolores, adipisci cupiditate

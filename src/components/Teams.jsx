@@ -31,7 +31,7 @@ export default function Teams() {
           </div>
           <div className="py-4">
             <h2 className="text-xl font-semibold text-slate-700">
-              Muhammed Mbye: CEO
+              Essa D Bah: IT Officer
             </h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora,
             magni!
