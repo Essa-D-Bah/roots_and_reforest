@@ -1,7 +1,7 @@
 export default function Teams() {
   return (
-    <div className="pt-16 pb-4">
-      <h1 className="text-3xl font-bold text-center pb-8 text-green-500">
+    <div className="pt-16 pb-4" id="team">
+      <h1 className="text-3xl font-bold text-center pb-8 text-green-700">
         Team
       </h1>
       <div className="px-4 md:flex flex-wrap md:gap-[10%] lg:gap-[3%]">

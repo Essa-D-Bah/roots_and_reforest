@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
-    <div className="pt-16">
-      <h2 className="text-green-500 text-center text-3xl font-bold">
+    <div className="pt-16" id="contact-us">
+      <h2 className="text-green-700 text-center text-3xl font-bold">
         Contact us
       </h2>
       <div className="md:flex justify-between">
