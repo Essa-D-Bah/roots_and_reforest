@@ -22,18 +22,18 @@ export default function Footer() {
           <div className="flex justify-between md:w-3/5 md:justify-around">
             <div className="pt-4 md:pt-0">
               <h2 className="text-2xl font-800 mt-8 mb-8 md:mt-0">Navigation</h2>
-              <p className="py-2 text-center">Home</p>
-              <p className="py-2 text-center">About</p>
-              <p className="py-2 text-center">Services</p>
-              <p className="py-2 text-center">Team</p>
-              <p className="py-2 text-center">Contact</p>
+              <p className="py-2 ">Home</p>
+              <p className="py-2 ">About</p>
+              <p className="py-2 ">Services</p>
+              <p className="py-2 ">Team</p>
+              <p className="py-2 ">Contact</p>
             </div>
             <div className="pt-4 md:pt-0">
               <h2 className="text-2xl font-800 mt-8 mb-8 md:mt-0">Socials</h2>
-              <p className="py-2 text-center">Twitter</p>
-              <p className="py-2 text-center">Facebook</p>
-              <p className="py-2 text-center">Instagram</p>
-              <p className="py-2 text-center">Snapchat</p>
+              <p className="py-2 ">Twitter</p>
+              <p className="py-2 ">Facebook</p>
+              <p className="py-2 ">Instagram</p>
+              <p className="py-2 ">Snapchat</p>
             </div>
           </div>
         </div>
